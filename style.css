@@ -1,0 +1,25 @@
+body{
+    font-family: 'Special Elite', cursive;
+    background: #baefff;
+
+}
+
+#camera{
+    border: 2px white;
+    width: 300px;
+    height: 300px;
+    box-shadow: 5px 5px 18px rgb(255, 254, 255);
+}
+
+.img_responsive{
+    width: 300px;
+    height: 350px;
+}
+
+h4{
+    background: white;
+    width: 300px;
+    margin-bottom: 5px;
+    box-shadow: 5px 5px 18px white;
+    text-align: center;
+}
